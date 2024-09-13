@@ -15,13 +15,13 @@ weight_dtype: 'fp16'
 
 ## test cases
 test_cases:
-  "./assets/test_imgs/a.png":
-    - "./assets/test_audios/echomimic_en.wav"
-  "./assets/test_imgs/b.png":
-    - "./assets/test_audios/echomimic_en_girl.wav"
-  "./assets/test_imgs/c.png":
-    - "./assets/test_audios/echomimic_en_girl.wav"
-  "./assets/test_imgs/d.png":
-    - "./assets/test_audios/echomimic_en_girl.wav"
-  "./assets/test_imgs/e.png":
-    - "./assets/test_audios/echomimic_en.wav"
+  "./assets/test_imgs/1.png":
+    - "./assets/test_audios/myown.wav"
+  "./assets/test_imgs/2.png":
+    - "./assets/test_audios/myown.wav"
+  "./assets/test_imgs/3.png":
+    - "./assets/test_audios/myown.wav"
+  "./assets/test_imgs/4.png":
+    - "./assets/test_audios/myown.wav"
+  "./assets/test_imgs/5.png":
+    - "./assets/test_audios/myown.wav"
