@@ -23,5 +23,3 @@ test_cases:
     - "./assets/test_audios/myown.wav"
   "./assets/test_imgs/4.png":
     - "./assets/test_audios/myown.wav"
-  "./assets/test_imgs/5.png":
-    - "./assets/test_audios/myown.wav"
