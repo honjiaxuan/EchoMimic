@@ -17,9 +17,3 @@ weight_dtype: 'fp16'
 test_cases:
   "./assets/test_imgs/1.png":
     - "./assets/test_audios/myown.wav"
-  "./assets/test_imgs/2.png":
-    - "./assets/test_audios/myown.wav"
-  "./assets/test_imgs/3.png":
-    - "./assets/test_audios/myown.wav"
-  "./assets/test_imgs/4.png":
-    - "./assets/test_audios/myown.wav"
